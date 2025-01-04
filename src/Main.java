@@ -20,6 +20,9 @@ public class Main {
         for(int i=0;i<str.length ;i++){
             str[i]= in.next();
         }
+        for(String element : str){
+            System.out.println(element);
+        }
         System.out.println(Arrays.toString(str));
   }
 }
