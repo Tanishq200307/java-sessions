@@ -11,7 +11,7 @@ public class Multidimesion {
             for (int col = 0;col <  arr[row].length;col++){
                 arr[row][col] = in.nextInt();
             }
-        }
+         }
         for (int row = 0; row< arr.length;row++) {
             System.out.println(Arrays.toString(arr[row]));
         }
