@@ -27,7 +27,6 @@ public class linearsearch {
             if (arr.length == 0) {
                 return -1;
             }
-
                 for (int element : arr) {
                     if (element == target) {
                         return element;
