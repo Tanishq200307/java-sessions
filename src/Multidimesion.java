@@ -20,5 +20,6 @@ public class Multidimesion {
             System.out.println(Arrays.toString(a));
         }
 
+
     }
 }
